@@ -32,8 +32,7 @@ import numpy
 
 ##Project Prompt
 Using  your  favorite  programming  language,  write  a  quantum computer  simulator. 
-Your  code  should  take  as  its  input  a  QASM  file,  such as that produced by the IBM Quantum Experience, and an integer number of shots. The software should compute the quantum state before measurement as a  vector  of  complex  numbers.   In  addition,  it  should  produce  the  number  ofcounts (out of the total number of shots) for each possible outcome.
-
+Your  code  should  take  as  its  input  a  QASM  file,  such as that produced by the IBM Quantum Experience, and an integer number of shots.
 
 
 ##Modeling Noisy Gates
