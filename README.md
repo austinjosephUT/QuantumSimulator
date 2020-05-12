@@ -38,9 +38,12 @@ Your  code  should  take  as  its  input  a  QASM  file,  such as that produced 
 
 ##Modeling Noisy Gates
 
+To model noisy gates. 
 
 ##Visualizations
 ```python
+import matplotlib as plt
+plt.show()
 ```
 
 
