@@ -29,7 +29,6 @@ import numpy
 #foobar.singularize('phenomena') # returns 'phenomenon'
 ```
 
-
 ##Project Prompt
 Using  your  favorite  programming  language,  write  a  quantum computer  simulator. 
 Your  code  should  take  as  its  input  a  QASM  file,  such as that produced by the IBM Quantum Experience, and an integer number of shots.
