@@ -9,15 +9,9 @@ the course CS309/PHY303 Quantum Computing-FRI at UT Austin taught by Dr. Brian L
 Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
 
 ```bash
-pip install numpy
-pip install cmath
-pip install random
-pip install matplotlib
-pip install numpy
-pip install cmath
-pip install numpy
-pip install cmath
+pip install -r requirements.txt
 ```
+
 
 ## Usage
 
